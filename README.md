@@ -1,7 +1,6 @@
 # EXNO:4-To read the given data and perform Feature Scaling and Feature Selection process and save the data to a file.
 # Name: Prajin S
 # Reference Number: 212223230151
-# Department: Artificial Intelligence & Data Science
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
